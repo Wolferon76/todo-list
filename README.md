@@ -7,4 +7,4 @@ Programmas iespējams pielietojums:
 
 Specifikācijai jābūt šeit:
 uzdevumu saraksts:
-Izveidojiet kolonnas uzdevumu sarakstu, kurā var ietilpināt līdz 40 uzdevumiem. Atzīmējiet uzdevuma labajā pusē izpildes laiku. Arī pa kreisi no uzdevuma ir kārtas numurs. Sarakstam pa vidu augšā ir nosaukuma “Mani uzdevumi”.
+Izveidojiet kolonnas uzdevumu sarakstu, kurā var ietilpināt līdz 40 uzdevumiem. Atzīmējiet uzdevuma labajā pusē izpildes laiku. Arī pa kreisi no uzdevuma ir kārtas numurs. Sarakstam pa vidu augšā ir nosaukuma “Mani uzdevumi”. Ir arī iespēja kaut kadu uzdēvumu pirakstīt, labot, nodzest, vai mainīt laiku.
